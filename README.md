@@ -39,9 +39,6 @@
   <img src="https://img.shields.io/badge/Agile_&_Scrum-100A2A?style=flat-square&logo=jira&logoColor=B08CFF" alt="Agile and Scrum">
 </p>
 
-## ⟡ Featured projects
-
-<p align="right"><a href="https://tumie074.github.io/Portfolio-website/#projects">See all projects on my portfolio →</a></p>
 
 ## ⟡ GitHub stats
 
