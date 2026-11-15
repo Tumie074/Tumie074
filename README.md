@@ -20,18 +20,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7A48E2,100:5EF2FF&height=3" width="100%" alt="">
 
-## ⟡ About me
-
-```python
-class Itumeleng:
-    location   = "Potchefstroom, South Africa 🇿🇦"
-    education  = ["BSc IT — North-West University (2025, Golden Key top 15%)",
-                  "BSc Hons Computer Science & IT — NWU (in progress)"]
-    focus      = ["Software Engineering", "Cloud", "AI / ML", "Data Engineering & BI"]
-    teaching   = "Student Learning Assistant & PAL Facilitator — Python, Java, C++"
-    looking_for = "Graduate roles in software, data, cloud & AI — 2027"
-```
-
 ## ⟡ Tech stack
 
 <p align="center">
@@ -53,16 +41,6 @@ class Itumeleng:
 
 ## ⟡ Featured projects
 
-| | Project | What it does | Built with |
-|:-:|---|---|---|
-| 🩺 | **Cloud-Based Oncology Management System** | Replaces paper records for a paediatric oncology non-profit with a secure, role-based cloud system | Django · PostgreSQL · Google Cloud Run · Docker |
-| 🎫 | **Online Booking System** | Microservices platform with JWT login, API gateway and service discovery | Spring Boot · Eureka · Resilience4j · PostgreSQL |
-| 🏭 | **[WWImporters Data Warehouse](https://github.com/Tumie074)** | End-to-end DW with ETL layers, star schema, SCD Type 2 and an SSAS cube | SQL Server · SSIS · SSAS · SSRS |
-| 🛰️ | **Smart City Threat Intelligence** | Real-time IoT threat detection on Azure Event Hub streams | Azure · Stream Analytics · Power BI · Python |
-| 🤖 | **Smart Mancala Player** | Q-Learning agent that learns Mancala through self-play | Python · Reinforcement Learning |
-| 📊 | **[ClearVue BI Platform](https://github.com/Tumie074/ClearVue-BI)** · [demo](https://clearvue-bi-demo.netlify.app) | Streaming BI dashboards for executive decision-making | MongoDB · Kafka · Node.js · Power BI |
-| 👩🏽‍💻 | **[StudentDevHub](https://github.com/StudentDevHubOrg/StudentDevHub-Group1)** · [demo](https://studentdevhub.netlify.app) | Platform for student developers with real-time chat — group leader | React · Node.js · Express · MongoDB |
-
 <p align="right"><a href="https://tumie074.github.io/Portfolio-website/#projects">See all projects on my portfolio →</a></p>
 
 ## ⟡ GitHub stats
@@ -79,22 +57,3 @@ class Itumeleng:
 <p align="center">
   <img src="./assets/snake.svg" width="100%" alt="Snake eating my contribution graph">
 </p>
-
-## ⟡ Certifications
-
-<details>
-<summary><b>Show all</b></summary>
-
-- Neo4j & Generative AI Fundamentals — Neo4j (2026)
-- Graph Data Modeling Fundamentals — Neo4j (2026)
-- Software Engineer Intern — HackerRank (2026)
-- MATLAB Fundamentals — MathWorks (2026)
-- Vodacom Digital Skills Programme (2026)
-- Microsoft AI Fluency (2025)
-- FNB App Academy — Full Stack Development (2025)
-- Data Analysis Bootcamp — Udemy (2025)
-- Cyber Security Training — Chongqing University of Technology (2024)
-
-</details>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7A48E2,100:5EF2FF&height=110&section=footer" width="100%" alt="">
