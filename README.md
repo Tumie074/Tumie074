@@ -20,6 +20,18 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7A48E2,100:5EF2FF&height=3" width="100%" alt="">
 
+## ⟡ About me
+
+```python
+class Itumeleng:
+    location   = "Potchefstroom, South Africa 🇿🇦"
+    education  = ["BSc IT — North-West University (2025, Golden Key top 15%)",
+                  "BSc Hons Computer Science & IT — NWU (in progress)"]
+    focus      = ["Software Engineering", "Cloud", "AI / ML", "Data Engineering & BI"]
+    teaching   = "Student Learning Assistant & PAL Facilitator — Python, Java, C++"
+    looking_for = "Graduate roles in software, data, cloud & AI — 2027"
+```
+
 ## ⟡ Tech stack
 
 <p align="center">
@@ -56,8 +68,8 @@
 ## ⟡ GitHub stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Tumie074&show_icons=true&hide_border=true&bg_color=100A2A&title_color=5EF2FF&text_color=E4DCFF&icon_color=B08CFF&ring_color=7A48E2&count_private=true" alt="GitHub stats">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tumie074&layout=compact&hide_border=true&bg_color=100A2A&title_color=5EF2FF&text_color=E4DCFF" alt="Top languages">
+  <img src="./assets/stats.svg" height="195" alt="GitHub stats">
+  <img src="./assets/top-langs.svg" height="195" alt="Most used languages">
 </p>
 
 <p align="center">
@@ -65,7 +77,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tumie074&bg_color=100A2A&color=E4DCFF&line=5EF2FF&point=FF78BE&area=true&area_color=7A48E2&title_color=5EF2FF&hide_border=true" width="100%" alt="Contribution activity graph">
+  <img src="./assets/snake.svg" width="100%" alt="Snake eating my contribution graph">
 </p>
 
 ## ⟡ Certifications
