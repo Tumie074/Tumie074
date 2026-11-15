@@ -20,18 +20,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7A48E2,100:5EF2FF&height=3" width="100%" alt="">
 
-## ⟡ About me
-
-```python
-class Itumeleng:
-    location   = "Potchefstroom, South Africa 🇿🇦"
-    education  = ["BSc IT — North-West University (2025, Golden Key top 15%)",
-                  "BSc Hons Computer Science & IT — NWU (in progress)"]
-    focus      = ["Software Engineering", "Cloud", "AI / ML", "Data Engineering & BI"]
-    teaching   = "Student Learning Assistant & PAL Facilitator — Python, Java, C++"
-    looking_for = "Graduate roles in software, data, cloud & AI — 2027"
-```
-
 ## ⟡ Tech stack
 
 <p align="center">
