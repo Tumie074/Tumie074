@@ -6,7 +6,7 @@
 <!-- Typing tagline -->
 <p align="center">
   <a href="https://tumie074.github.io/Portfolio-website/">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=5EF2FF&center=true&vCenter=true&width=640&lines=Building+full-stack%2C+cloud+%26+AI+solutions;Spring+Boot+%C2%B7+Azure+%C2%B7+Python+%C2%B7+React;Data+warehouses%2C+pipelines+%26+BI+dashboards alt="Typing tagline">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3200&pause=900&color=5EF2FF&center=true&vCenter=true&width=640&lines=Building+full-stack%2C+cloud+%26+AI+solutions;Spring+Boot+%C2%B7+Azure+%C2%B7+Python+%C2%B7+React;Data+warehouses%2C+pipelines+%26+BI+dashboards;Problem+Solving+and+Innovation" alt="Typing tagline">
   </a>
 </p>
 
