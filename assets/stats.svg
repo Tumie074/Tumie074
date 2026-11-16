@@ -11,6 +11,6 @@
 <circle cx="400" cy="108" r="50" fill="none" stroke="#3A1A6E" stroke-width="7"/>
 <circle class="arc" cx="400" cy="108" r="50" fill="none" stroke="#7A48E2" stroke-width="7" stroke-linecap="round" transform="rotate(-90 400 108)"/>
 <circle cx="400" cy="58" r="4" fill="#FF78BE"/>
-<text x="400" y="114" text-anchor="middle" class="big">100</text>
+<text x="400" y="114" text-anchor="middle" class="big">80</text>
 <text x="400" y="182" text-anchor="middle" class="sub">contributions (last year)</text>
 </svg>
