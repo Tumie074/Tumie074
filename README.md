@@ -68,17 +68,6 @@
   <img src="https://img.shields.io/badge/Agile_&_Scrum-100A2A?style=for-the-badge&logo=jira&logoColor=B08CFF" alt="Agile and Scrum">
 </p>
 
-## ⟡ GitHub stats
+## ⟡ GitHub activity
 
-<p align="center">
-  <img src="./assets/stats.svg" height="195" alt="GitHub stats">
-  <img src="./assets/top-langs.svg" height="195" alt="Most used languages">
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Tumie074&hide_border=true&background=100A2A&ring=7A48E2&fire=FF78BE&currStreakNum=5EF2FF&sideNums=E4DCFF&currStreakLabel=5EF2FF&sideLabels=B08CFF&dates=8C82B8&stroke=3A1A6E" alt="Contribution streak">
-</p>
-
-<p align="center">
-  <img src="./assets/snake.svg" width="100%" alt="Snake eating my contribution graph">
-</p>
+<p align="center"> <img src="./assets/stats.svg" height="195" alt="GitHub stats: commits, pull requests, stars, repositories and total contributions"> <img src="./assets/top-langs.svg" height="195" alt="Most used languages"> </p> <p align="center"> <sub>Cards drawn daily by my own GitHub Action · <a href="./.github/scripts/make_cards.py">see the script</a></sub> </p> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7A48E2,100:5EF2FF&height=100&section=footer" width="100%" alt="">
