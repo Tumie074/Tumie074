@@ -20,11 +20,99 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7A48E2,100:5EF2FF&height=3" width="100%" alt="">
 
 ## ⟡ Tech stack
-<div align="center"> <table> <tr> <td align="center" width="88"><img src="https://skillicons.dev/icons?i=py&theme=dark" width="48" height="48" alt="Python"><br><sub><b>Python</b></sub></td> <td align="center" width="88"><img src="https://skillicons.dev/icons?i=java&theme=dark" width="48" height="48" alt="Java"><br><sub><b>Java</b></sub></td> <td align="center" width="88"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="48" height="48" alt="C++"><br><sub><b>C++</b></sub></td> <td align="center" width="88"><img src="https://skillicons.dev/icons?i=cs&theme=dark" width="48" height="48" alt="C#"><br><sub><b>C#</b></sub></td> <td align="center" width="88"><img src="https://skillicons.dev/icons?i=js&theme=dark" width="48" height="48" alt="JavaScript"><br><sub><b>JavaScript</b></sub></td> <td align="center" width="88"><img src="https://skillicons.dev/icons?i=html&theme=dark" width="48" height="48" alt="HTML"><br><sub><b>HTML</b></sub></td> <td align="center" width="88"><img src="https://skillicons.dev/icons?i=css&theme=dark" width="48" height="48" alt="CSS"><br><sub><b>CSS</b></sub></td> <td align="center" width="88"><img src="https://skillicons.dev/icons?i=matlab&theme=dark" width="48" height="48" alt="MATLAB"><br><sub><b>MATLAB</b></sub></td> </tr> </table> <table> <tr> <td align="center" width="88"><img src="https://skillicons.dev/icons?i=dotnet&theme=dark" width="48" height="48" alt=".NET"><br><sub><b>.NET</b></sub></td> <td align="center" width="88"><img src="https://skillicons.dev/icons?i=spring&theme=dark" width="48" height="48" alt="Spring Boot"><br><sub><b>Spring Boot</b></sub></td> <td align="center" width="88"><img src="https://skillicons.dev/icons?i=django&theme=dark" width="48" height="48" alt="Django"><br><sub><b>Django</b></sub></td> <td align="center" width="88"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="48" height="48" alt="Node.js"><br><sub><b>Node.js</b></sub></td> <td align="center" width="88"><img src="https://skillicons.dev/icons?i=react&theme=dark" width="48" height="48" alt="React"><br><sub><b>React</b></sub></td> <td align="center" width="88"><img src="https://skillicons.dev/icons?i=express&theme=dark" width="48" height="48" alt="Express"><br><sub><b>Express</b></sub></td> </tr> </table> <table> <tr> <td align="center" width="88"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="48" height="48" alt="PostgreSQL"><br><sub><b>PostgreSQL</b></sub></td> <td align="center" width="88"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="48" height="48" alt="MongoDB"><br><sub><b>MongoDB</b></sub></td> <td align="center" width="88"><img src="https://skillicons.dev/icons?i=kafka&theme=dark" width="48" height="48" alt="Kafka"><br><sub><b>Kafka</b></sub></td> <td align="center" width="88"><img src="https://skillicons.dev/icons?i=azure&theme=dark" width="48" height="48" alt="Azure"><br><sub><b>Azure</b></sub></td> <td align="center" width="88"><img src="https://skillicons.dev/icons?i=gcp&theme=dark" width="48" height="48" alt="Google Cloud"><br><sub><b>Google Cloud</b></sub></td> <td align="center" width="88"><img src="https://skillicons.dev/icons?i=aws&theme=dark" width="48" height="48" alt="AWS"><br><sub><b>AWS</b></sub></td> </tr> </table> <table> <tr> <td align="center" width="88"><img src="https://skillicons.dev/icons?i=docker&theme=dark" width="48" height="48" alt="Docker"><br><sub><b>Docker</b></sub></td> <td align="center" width="88"><img src="https://skillicons.dev/icons?i=githubactions&theme=dark" width="48" height="48" alt="GitHub Actions"><br><sub><b>GitHub Actions</b></sub></td> <td align="center" width="88"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="48" height="48" alt="Git"><br><sub><b>Git</b></sub></td> <td align="center" width="88"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" height="48" alt="GitHub"><br><sub><b>GitHub</b></sub></td> <td align="center" width="88"><img src="https://skillicons.dev/icons?i=netlify&theme=dark" width="48" height="48" alt="Netlify"><br><sub><b>Netlify</b></sub></td> <td align="center" width="88"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="48" height="48" alt="VS Code"><br><sub><b>VS Code</b></sub></td> <td align="center" width="88"><img src="https://skillicons.dev/icons?i=visualstudio&theme=dark" width="48" height="48" alt="Visual Studio"><br><sub><b>Visual Studio</b></sub></td> </tr> </table> </div>
 
+## ⟡ Tech stack
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=py,java,cpp,cs,js,html,css,matlab&theme=dark" alt="Languages: Python, Java, C++, C#, JavaScript, HTML, CSS, MATLAB"><br> <img src="https://skillicons.dev/icons?i=dotnet,spring,django,nodejs,react,express&theme=dark" alt="Frameworks: .NET, Spring Boot, Django, Node.js, React, Express"><br> <img src="https://skillicons.dev/icons?i=postgres,mongodb,kafka,azure,gcp,aws,docker,githubactions,git,netlify&theme=dark" alt="Data, cloud and DevOps: PostgreSQL, MongoDB, Kafka, Azure, Google Cloud, AWS, Docker, GitHub Actions, Git, Netlify"><br> <img src="https://skillicons.dev/icons?i=vscode,visualstudio,github&theme=dark" alt="Tools: VS Code, Visual Studio, GitHub"> </p> <p align="center"> <b>Data &amp; BI</b><br> <img src="https://img.shields.io/badge/Power_BI-100A2A?style=for-the-badge&logo=powerbi&logoColor=F2C811" alt="Power BI"> <img src="https://img.shields.io/badge/DAX-100A2A?style=for-the-badge&logo=powerbi&logoColor=5EF2FF" alt="DAX"> <img src="https://img.shields.io/badge/SQL_Server-100A2A?style=for-the-badge&logo=microsoftsqlserver&logoColor=FF78BE" alt="SQL Server"> <img src="https://img.shields.io/badge/SSIS_·_SSAS_·_SSRS-100A2A?style=for-the-badge&logoColor=5EF2FF" alt="SSIS, SSAS, SSRS"> <img src="https://img.shields.io/badge/ETL_·_Star_Schema_·_SCD2-100A2A?style=for-the-badge&logoColor=B08CFF" alt="ETL, star schema, SCD Type 2"> <img src="https://img.shields.io/badge/Tableau-100A2A?style=for-the-badge&logo=tableau&logoColor=B08CFF" alt="Tableau"> <img src="https://img.shields.io/badge/Neo4j-100A2A?style=for-the-badge&logo=neo4j&logoColor=5EF2FF" alt="Neo4j"> <img src="https://img.shields.io/badge/Cosmos_DB-100A2A?style=for-the-badge&logo=azurecosmosdb&logoColor=B08CFF" alt="Cosmos DB"> </p> <p align="center"> <b>Cloud &amp; streaming</b><br> <img src="https://img.shields.io/badge/Google_Cloud_Run-100A2A?style=for-the-badge&logo=googlecloud&logoColor=5EF2FF" alt="Google Cloud Run"> <img src="https://img.shields.io/badge/Cloud_SQL-100A2A?style=for-the-badge&logo=googlecloud&logoColor=B08CFF" alt="Google Cloud SQL"> <img src="https://img.shields.io/badge/Azure_Event_Hubs-100A2A?style=for-the-badge&logo=microsoftazure&logoColor=5EF2FF" alt="Azure Event Hubs"> <img src="https://img.shields.io/badge/Azure_Stream_Analytics-100A2A?style=for-the-badge&logo=microsoftazure&logoColor=B08CFF" alt="Azure Stream Analytics"> <img src="https://img.shields.io/badge/Apache_Kafka-100A2A?style=for-the-badge&logo=apachekafka&logoColor=FF78BE" alt="Apache Kafka"> </p> <p align="center"> <b>Architecture &amp; backend</b><br> <img src="https://img.shields.io/badge/Microservices-100A2A?style=for-the-badge&logo=spring&logoColor=5EF2FF" alt="Microservices"> <img src="https://img.shields.io/badge/Eureka-100A2A?style=for-the-badge&logo=spring&logoColor=B08CFF" alt="Eureka service discovery"> <img src="https://img.shields.io/badge/Resilience4j-100A2A?style=for-the-badge&logoColor=5EF2FF" alt="Resilience4j"> <img src="https://img.shields.io/badge/Ocelot_API_Gateway-100A2A?style=for-the-badge&logo=dotnet&logoColor=B08CFF" alt="Ocelot API Gateway"> <img src="https://img.shields.io/badge/Consul-100A2A?style=for-the-badge&logo=consul&logoColor=FF78BE" alt="Consul"> <img src="https://img.shields.io/badge/JWT-100A2A?style=for-the-badge&logo=jsonwebtokens&logoColor=5EF2FF" alt="JWT"> <img src="https://img.shields.io/badge/Serilog-100A2A?style=for-the-badge&logoColor=B08CFF" alt="Serilog"> <img src="https://img.shields.io/badge/WinForms-100A2A?style=for-the-badge&logo=dotnet&logoColor=5EF2FF" alt="WinForms"> </p> <p align="center"> <b>AI, security &amp; ways of working</b><br> <img src="https://img.shields.io/badge/Reinforcement_Learning-100A2A?style=for-the-badge&logo=python&logoColor=5EF2FF" alt="Reinforcement Learning"> <img src="https://img.shields.io/badge/Q--Learning-100A2A?style=for-the-badge&logo=python&logoColor=B08CFF" alt="Q-Learning"> <img src="https://img.shields.io/badge/Generative_AI-100A2A?style=for-the-badge&logo=neo4j&logoColor=FF78BE" alt="Generative AI"> <img src="https://img.shields.io/badge/POPIA_compliance-100A2A?style=for-the-badge&logoColor=5EF2FF" alt="POPIA compliance"> <img src="https://img.shields.io/badge/Cisco_Networking-100A2A?style=for-the-badge&logo=cisco&logoColor=5EF2FF" alt="Cisco networking"> <img src="https://img.shields.io/badge/Agile_&_Scrum-100A2A?style=for-the-badge&logo=jira&logoColor=B08CFF" alt="Agile and Scrum"> </p>
+<div align="center">
 
+<table>
+  <tr>
+    <td align="center" width="88"><img src="https://skillicons.dev/icons?i=py&theme=dark" width="48" height="48" alt="Python"><br><sub><b>Python</b></sub></td>
+    <td align="center" width="88"><img src="https://skillicons.dev/icons?i=java&theme=dark" width="48" height="48" alt="Java"><br><sub><b>Java</b></sub></td>
+    <td align="center" width="88"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="48" height="48" alt="C++"><br><sub><b>C++</b></sub></td>
+    <td align="center" width="88"><img src="https://skillicons.dev/icons?i=cs&theme=dark" width="48" height="48" alt="C#"><br><sub><b>C#</b></sub></td>
+    <td align="center" width="88"><img src="https://skillicons.dev/icons?i=js&theme=dark" width="48" height="48" alt="JavaScript"><br><sub><b>JavaScript</b></sub></td>
+    <td align="center" width="88"><img src="https://skillicons.dev/icons?i=html&theme=dark" width="48" height="48" alt="HTML"><br><sub><b>HTML</b></sub></td>
+    <td align="center" width="88"><img src="https://skillicons.dev/icons?i=css&theme=dark" width="48" height="48" alt="CSS"><br><sub><b>CSS</b></sub></td>
+    <td align="center" width="88"><img src="https://skillicons.dev/icons?i=matlab&theme=dark" width="48" height="48" alt="MATLAB"><br><sub><b>MATLAB</b></sub></td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td align="center" width="88"><img src="https://skillicons.dev/icons?i=dotnet&theme=dark" width="48" height="48" alt=".NET"><br><sub><b>.NET</b></sub></td>
+    <td align="center" width="88"><img src="https://skillicons.dev/icons?i=spring&theme=dark" width="48" height="48" alt="Spring Boot"><br><sub><b>Spring Boot</b></sub></td>
+    <td align="center" width="88"><img src="https://skillicons.dev/icons?i=django&theme=dark" width="48" height="48" alt="Django"><br><sub><b>Django</b></sub></td>
+    <td align="center" width="88"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="48" height="48" alt="Node.js"><br><sub><b>Node.js</b></sub></td>
+    <td align="center" width="88"><img src="https://skillicons.dev/icons?i=react&theme=dark" width="48" height="48" alt="React"><br><sub><b>React</b></sub></td>
+    <td align="center" width="88"><img src="https://skillicons.dev/icons?i=express&theme=dark" width="48" height="48" alt="Express"><br><sub><b>Express</b></sub></td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td align="center" width="88"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="48" height="48" alt="PostgreSQL"><br><sub><b>PostgreSQL</b></sub></td>
+    <td align="center" width="88"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="48" height="48" alt="MongoDB"><br><sub><b>MongoDB</b></sub></td>
+    <td align="center" width="88"><img src="https://skillicons.dev/icons?i=kafka&theme=dark" width="48" height="48" alt="Kafka"><br><sub><b>Kafka</b></sub></td>
+    <td align="center" width="88"><img src="https://skillicons.dev/icons?i=azure&theme=dark" width="48" height="48" alt="Azure"><br><sub><b>Azure</b></sub></td>
+    <td align="center" width="88"><img src="https://skillicons.dev/icons?i=gcp&theme=dark" width="48" height="48" alt="Google Cloud"><br><sub><b>Google Cloud</b></sub></td>
+    <td align="center" width="88"><img src="https://skillicons.dev/icons?i=aws&theme=dark" width="48" height="48" alt="AWS"><br><sub><b>AWS</b></sub></td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td align="center" width="88"><img src="https://skillicons.dev/icons?i=docker&theme=dark" width="48" height="48" alt="Docker"><br><sub><b>Docker</b></sub></td>
+    <td align="center" width="88"><img src="https://skillicons.dev/icons?i=githubactions&theme=dark" width="48" height="48" alt="GitHub Actions"><br><sub><b>GitHub Actions</b></sub></td>
+    <td align="center" width="88"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="48" height="48" alt="Git"><br><sub><b>Git</b></sub></td>
+    <td align="center" width="88"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" height="48" alt="GitHub"><br><sub><b>GitHub</b></sub></td>
+    <td align="center" width="88"><img src="https://skillicons.dev/icons?i=netlify&theme=dark" width="48" height="48" alt="Netlify"><br><sub><b>Netlify</b></sub></td>
+    <td align="center" width="88"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="48" height="48" alt="VS Code"><br><sub><b>VS Code</b></sub></td>
+    <td align="center" width="88"><img src="https://skillicons.dev/icons?i=visualstudio&theme=dark" width="48" height="48" alt="Visual Studio"><br><sub><b>Visual Studio</b></sub></td>
+  </tr>
+</table>
+
+</div>
+
+<p align="center">
+  <b>Data &amp; BI</b><br>
+  <img src="https://img.shields.io/badge/Power_BI-100A2A?style=for-the-badge&logo=powerbi&logoColor=F2C811" alt="Power BI">
+  <img src="https://img.shields.io/badge/DAX-100A2A?style=for-the-badge&logo=powerbi&logoColor=5EF2FF" alt="DAX">
+  <img src="https://img.shields.io/badge/SQL_Server-100A2A?style=for-the-badge&logo=microsoftsqlserver&logoColor=FF78BE" alt="SQL Server">
+  <img src="https://img.shields.io/badge/SSIS_·_SSAS_·_SSRS-100A2A?style=for-the-badge&logoColor=5EF2FF" alt="SSIS, SSAS, SSRS">
+  <img src="https://img.shields.io/badge/ETL_·_Star_Schema_·_SCD2-100A2A?style=for-the-badge&logoColor=B08CFF" alt="ETL, star schema, SCD Type 2">
+  <img src="https://img.shields.io/badge/Tableau-100A2A?style=for-the-badge&logo=tableau&logoColor=B08CFF" alt="Tableau">
+  <img src="https://img.shields.io/badge/Neo4j-100A2A?style=for-the-badge&logo=neo4j&logoColor=5EF2FF" alt="Neo4j">
+  <img src="https://img.shields.io/badge/Cosmos_DB-100A2A?style=for-the-badge&logo=azurecosmosdb&logoColor=B08CFF" alt="Cosmos DB">
+</p>
+
+<p align="center">
+  <b>Cloud &amp; streaming</b><br>
+  <img src="https://img.shields.io/badge/Google_Cloud_Run-100A2A?style=for-the-badge&logo=googlecloud&logoColor=5EF2FF" alt="Google Cloud Run">
+  <img src="https://img.shields.io/badge/Cloud_SQL-100A2A?style=for-the-badge&logo=googlecloud&logoColor=B08CFF" alt="Google Cloud SQL">
+  <img src="https://img.shields.io/badge/Azure_Event_Hubs-100A2A?style=for-the-badge&logo=microsoftazure&logoColor=5EF2FF" alt="Azure Event Hubs">
+  <img src="https://img.shields.io/badge/Azure_Stream_Analytics-100A2A?style=for-the-badge&logo=microsoftazure&logoColor=B08CFF" alt="Azure Stream Analytics">
+  <img src="https://img.shields.io/badge/Apache_Kafka-100A2A?style=for-the-badge&logo=apachekafka&logoColor=FF78BE" alt="Apache Kafka">
+</p>
+
+<p align="center">
+  <b>Architecture &amp; backend</b><br>
+  <img src="https://img.shields.io/badge/Microservices-100A2A?style=for-the-badge&logo=spring&logoColor=5EF2FF" alt="Microservices">
+  <img src="https://img.shields.io/badge/Eureka-100A2A?style=for-the-badge&logo=spring&logoColor=B08CFF" alt="Eureka service discovery">
+  <img src="https://img.shields.io/badge/Resilience4j-100A2A?style=for-the-badge&logoColor=5EF2FF" alt="Resilience4j">
+  <img src="https://img.shields.io/badge/Ocelot_API_Gateway-100A2A?style=for-the-badge&logo=dotnet&logoColor=B08CFF" alt="Ocelot API Gateway">
+  <img src="https://img.shields.io/badge/Consul-100A2A?style=for-the-badge&logo=consul&logoColor=FF78BE" alt="Consul">
+  <img src="https://img.shields.io/badge/JWT-100A2A?style=for-the-badge&logo=jsonwebtokens&logoColor=5EF2FF" alt="JWT">
+  <img src="https://img.shields.io/badge/Serilog-100A2A?style=for-the-badge&logoColor=B08CFF" alt="Serilog">
+  <img src="https://img.shields.io/badge/WinForms-100A2A?style=for-the-badge&logo=dotnet&logoColor=5EF2FF" alt="WinForms">
+</p>
+
+<p align="center">
+  <b>AI, security &amp; ways of working</b><br>
+  <img src="https://img.shields.io/badge/Reinforcement_Learning-100A2A?style=for-the-badge&logo=python&logoColor=5EF2FF" alt="Reinforcement Learning">
+  <img src="https://img.shields.io/badge/Q--Learning-100A2A?style=for-the-badge&logo=python&logoColor=B08CFF" alt="Q-Learning">
+  <img src="https://img.shields.io/badge/Generative_AI-100A2A?style=for-the-badge&logo=neo4j&logoColor=FF78BE" alt="Generative AI">
+  <img src="https://img.shields.io/badge/POPIA_compliance-100A2A?style=for-the-badge&logoColor=5EF2FF" alt="POPIA compliance">
+  <img src="https://img.shields.io/badge/Cisco_Networking-100A2A?style=for-the-badge&logo=cisco&logoColor=5EF2FF" alt="Cisco networking">
+  <img src="https://img.shields.io/badge/Agile_&_Scrum-100A2A?style=for-the-badge&logo=jira&logoColor=B08CFF" alt="Agile and Scrum">
+</p>
 
 ## ⟡ GitHub stats
 
