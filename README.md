@@ -20,54 +20,11 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7A48E2,100:5EF2FF&height=3" width="100%" alt="">
 
 ## ⟡ Tech stack
-<div align="center">
 
-<table>
-  <tr>
-    <td align="center" width="88"><img src="https://skillicons.dev/icons?i=py&theme=dark" width="48" height="48" alt="Python"><br><sub><b>Python</b></sub></td>
-    <td align="center" width="88"><img src="https://skillicons.dev/icons?i=java&theme=dark" width="48" height="48" alt="Java"><br><sub><b>Java</b></sub></td>
-    <td align="center" width="88"><img src="https://skillicons.dev/icons?i=cpp&theme=dark" width="48" height="48" alt="C++"><br><sub><b>C++</b></sub></td>
-    <td align="center" width="88"><img src="https://skillicons.dev/icons?i=cs&theme=dark" width="48" height="48" alt="C#"><br><sub><b>C#</b></sub></td>
-    <td align="center" width="88"><img src="https://skillicons.dev/icons?i=js&theme=dark" width="48" height="48" alt="JavaScript"><br><sub><b>JavaScript</b></sub></td>
-    <td align="center" width="88"><img src="https://skillicons.dev/icons?i=html&theme=dark" width="48" height="48" alt="HTML"><br><sub><b>HTML</b></sub></td>
-    <td align="center" width="88"><img src="https://skillicons.dev/icons?i=css&theme=dark" width="48" height="48" alt="CSS"><br><sub><b>CSS</b></sub></td>
-    <td align="center" width="88"><img src="https://skillicons.dev/icons?i=matlab&theme=dark" width="48" height="48" alt="MATLAB"><br><sub><b>MATLAB</b></sub></td>
-  </tr>
-</table>
-<table>
-  <tr>
-    <td align="center" width="88"><img src="https://skillicons.dev/icons?i=dotnet&theme=dark" width="48" height="48" alt=".NET"><br><sub><b>.NET</b></sub></td>
-    <td align="center" width="88"><img src="https://skillicons.dev/icons?i=spring&theme=dark" width="48" height="48" alt="Spring Boot"><br><sub><b>Spring Boot</b></sub></td>
-    <td align="center" width="88"><img src="https://skillicons.dev/icons?i=django&theme=dark" width="48" height="48" alt="Django"><br><sub><b>Django</b></sub></td>
-    <td align="center" width="88"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" width="48" height="48" alt="Node.js"><br><sub><b>Node.js</b></sub></td>
-    <td align="center" width="88"><img src="https://skillicons.dev/icons?i=react&theme=dark" width="48" height="48" alt="React"><br><sub><b>React</b></sub></td>
-    <td align="center" width="88"><img src="https://skillicons.dev/icons?i=express&theme=dark" width="48" height="48" alt="Express"><br><sub><b>Express</b></sub></td>
-  </tr>
-</table>
-<table>
-  <tr>
-    <td align="center" width="88"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" width="48" height="48" alt="PostgreSQL"><br><sub><b>PostgreSQL</b></sub></td>
-    <td align="center" width="88"><img src="https://skillicons.dev/icons?i=mongodb&theme=dark" width="48" height="48" alt="MongoDB"><br><sub><b>MongoDB</b></sub></td>
-    <td align="center" width="88"><img src="https://skillicons.dev/icons?i=kafka&theme=dark" width="48" height="48" alt="Kafka"><br><sub><b>Kafka</b></sub></td>
-    <td align="center" width="88"><img src="https://skillicons.dev/icons?i=azure&theme=dark" width="48" height="48" alt="Azure"><br><sub><b>Azure</b></sub></td>
-    <td align="center" width="88"><img src="https://skillicons.dev/icons?i=gcp&theme=dark" width="48" height="48" alt="Google Cloud"><br><sub><b>Google Cloud</b></sub></td>
-    <td align="center" width="88"><img src="https://skillicons.dev/icons?i=aws&theme=dark" width="48" height="48" alt="AWS"><br><sub><b>AWS</b></sub></td>
-  </tr>
-</table>
-<table>
-  <tr>
-    <td align="center" width="88"><img src="https://skillicons.dev/icons?i=docker&theme=dark" width="48" height="48" alt="Docker"><br><sub><b>Docker</b></sub></td>
-    <td align="center" width="88"><img src="https://skillicons.dev/icons?i=githubactions&theme=dark" width="48" height="48" alt="GitHub Actions"><br><sub><b>GitHub Actions</b></sub></td>
-    <td align="center" width="88"><img src="https://skillicons.dev/icons?i=git&theme=dark" width="48" height="48" alt="Git"><br><sub><b>Git</b></sub></td>
-    <td align="center" width="88"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="48" height="48" alt="GitHub"><br><sub><b>GitHub</b></sub></td>
-    <td align="center" width="88"><img src="https://skillicons.dev/icons?i=netlify&theme=dark" width="48" height="48" alt="Netlify"><br><sub><b>Netlify</b></sub></td>
-    <td align="center" width="88"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" width="48" height="48" alt="VS Code"><br><sub><b>VS Code</b></sub></td>
-    <td align="center" width="88"><img src="https://skillicons.dev/icons?i=visualstudio&theme=dark" width="48" height="48" alt="Visual Studio"><br><sub><b>Visual Studio</b></sub></td>
-  </tr>
-</table>
+<p align="center"> <img src="./assets/tech-icons.svg" width="100%" alt="Tech stack. Languages: Python, Java, C++, C#, JavaScript, HTML, CSS, MATLAB. Frameworks: .NET, Spring Boot, Django, Node.js, React, Express. Data and cloud: PostgreSQL, MongoDB, Kafka, Azure, Google Cloud, AWS. DevOps and tools: Docker, GitHub Actions, Git, GitHub, Netlify, VS Code, Visual Studio."> 
+</p>
 
 </div>
-
 <p align="center">
   <b>Data &amp; BI</b><br>
   <img src="https://img.shields.io/badge/Power_BI-100A2A?style=for-the-badge&logo=powerbi&logoColor=F2C811" alt="Power BI">
