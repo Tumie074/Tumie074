@@ -76,7 +76,7 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Tumie074&hide_border=true&background=100A2A&ring=7A48E2&fire=FF78BE&currStreakNum=5EF2FF&sideNums=E4DCFF&currStreakLabel=5EF2FF&sideLabels=B08CFF&dates=8C82B8&stroke=3A1A6E" alt="Contribution streak">
+  <img src="./assets/streak.svg" width="855" alt="Total contributions, current streak and longest streak">
 </p>
 
 <p align="center">
