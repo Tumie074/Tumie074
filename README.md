@@ -20,7 +20,6 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7A48E2,100:5EF2FF&height=3" width="100%" alt="">
 
 ## ⟡ Tech stack
-
 <div align="center">
 
 <table>
